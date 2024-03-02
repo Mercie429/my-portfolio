@@ -1,0 +1,29 @@
+nav
+{
+   float: left;
+   list-style-type: none;
+   background-color: grey;
+   margin: o;
+   padding: o;
+   display: block;
+}
+li a.active {
+    background-color: antiquewhite;
+}
+body
+ {
+    background-color:rgba(226, 160, 98, 0.849);
+    border-style:hidden;
+    font-family:"Times New Roman",Times,serif;
+    font-size: 20px;
+}
+image
+{
+    width: 20px;
+    height: 30px;
+}
+footer
+{
+    list-style-type: none;
+    position: center;
+}
